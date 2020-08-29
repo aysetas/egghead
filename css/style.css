@@ -250,7 +250,7 @@ margin-top: 20px;
 
 }
 .section1{
-    margin-bottom: 50px;
+    margin-bottom: 30px;
     display:flex;
 
 
@@ -345,7 +345,7 @@ margin-top: 20px;
 
 
 .section2{
-    background: #fff;
+    background: #f4f5f9;
     margin-left:50px;
     margin-right: 50px;
     box-shadow: 0 5px 50px -20px rgba(0, 0, 0, .1);
@@ -354,10 +354,11 @@ margin-top: 20px;
 
 }
 .section2 .icerik{
+    background: #fff;
     display: flex;
     align-items: center;
-    margin-bottom: 10px;
-    border: 1px solid #000; 
+    margin-bottom: 20px;
+  
 }
 .section2 .icerik .ch {
     padding: 40px;
